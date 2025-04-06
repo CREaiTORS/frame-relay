@@ -1,0 +1,10 @@
+{
+  "name": "frame-relay",
+  "description": "Designed for internal use, this library simplifies cross-frame interactions in web applications that require embedded iframes or multi-window communication.",
+  "version": "0.0.1",
+  "dependencies": {
+    "gamez": "github:CREaiTORS/gamez"
+  },
+  "devDependencies": {},
+  "main": "src/index.ts"
+}
